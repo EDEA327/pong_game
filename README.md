@@ -30,8 +30,8 @@
    Ve al directorio del repositorio y ejecuta el juego:
 
    ```shell
-   cd pong-game
-   python pong.py
+   cd pong_game
+   python main.py
    ```
 
 4. **¡A jugar!**
