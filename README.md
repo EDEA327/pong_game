@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes la respuesta completa en un solo bloque de texto:
-
-
 # 🎮 Pong Game en Python 🐢
 
 ¡Bienvenido a Pong Game, la clásica batalla de ping pong en tu terminal! 🏓
